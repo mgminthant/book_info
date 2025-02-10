@@ -23,3 +23,4 @@ Manual Download
 5. Open the project in your preferred IDE
 
 
+demo => https://book-info-by-cursor.netlify.app/
